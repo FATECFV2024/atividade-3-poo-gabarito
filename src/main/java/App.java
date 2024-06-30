@@ -6,9 +6,9 @@ public class App {
 
     public static void funcao_teste (){
         //Biblioteca para entrada de dados
-        Scanner ler = new Scanner(System.in);
+        Scanner ler = new Scanner(System.in); 
 
-        //variável local 
+        //variável local a
         String v2;
         int v1;
 
