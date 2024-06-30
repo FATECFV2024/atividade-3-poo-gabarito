@@ -1,8 +1,11 @@
+package test;
 // CorpoHumanoTest.java
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import main.java.CorpoHumano;
 
 public class CorpoHumanoTest {
     private CorpoHumano corpo;
