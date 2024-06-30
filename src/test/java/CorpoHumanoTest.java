@@ -1,4 +1,4 @@
-package test;
+package test.java;
 // CorpoHumanoTest.java
 import static org.junit.Assert.assertEquals;
 
