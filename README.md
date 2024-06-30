@@ -60,7 +60,7 @@ Exibir/Imprimir o IMC na classe main
 - Utilze comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe a Nota de Atividades da M1;
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe a Nota de Atividades da AT1;
 -  A nota será atribuída no Microsoft Teams
 
 
