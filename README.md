@@ -21,7 +21,6 @@
 ## Escopo da Atividade 🛠️
 
 - Implementar uma classe que seja capaz de simular atuação dos modificadores de acesso e respectivamente os métodos getters/setters: 
-- Crie uma Branch utilizando o seu RGM como identificador;
 - Implemente a Classe Corpo Humano e o Construtor  
 - Implemente os métodos Getters
 - Implemente os métodos Setters
